@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Custom Software Engineer** with **4+ years of experience** in designing, building, and optimizing scalable enterprise web applications. My expertise lies in the Microsoft ecosystem, where I architect robust solutions that drive business efficiency and growth.
+I'm a **Custom Software Engineer** with **1+ years of experience** in designing, building, and optimizing scalable enterprise web applications. My expertise lies in the Microsoft ecosystem, where I architect robust solutions that drive business efficiency and growth.
 
 - 🔭 **Currently Architecting:** Enterprise Inventory & Order Management System with real-time tracking
 - 🌱 **Deep Dive:** Microservices Architecture, Cloud Migration (Azure/AWS), .NET 8, C# 12
