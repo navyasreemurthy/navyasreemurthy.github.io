@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navya Sree Murthy</h1>
-<h3 align="center">Junior Full-Stack Developer | ASP.NET Core Specialist | Cloud-Ready Solutions Architect</h3>
+<h3 align="center">Senior Full‑Stack Developer | ASP.NET Core Specialist | Cloud‑Ready Solutions Architect</h3>
 
 <p align="center">
   <a href="https://github.com/NavyaSreeMurthy">
@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Custom Software Engineer** with **1+ years of experience** in designing, building, and optimizing scalable enterprise web applications. My expertise lies in the Microsoft ecosystem, where I architect robust solutions that drive business efficiency and growth.
+I'm a **Custom Software Engineer** with a passion for designing, building, and optimizing scalable enterprise web applications. My expertise lies in the Microsoft ecosystem, where I architect robust solutions that drive business efficiency and growth.
 
 - 🔭 **Currently Architecting:** Enterprise Inventory & Order Management System with real-time tracking
 - 🌱 **Deep Dive:** Microservices Architecture, Cloud Migration (Azure/AWS), .NET 8, C# 12
