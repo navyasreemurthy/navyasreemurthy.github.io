@@ -2,6 +2,18 @@
 <h3 align="center">ASP.NET Full Stack Developer | Building Scalable Enterprise Solutions</h3>
 
 <p align="center">
+  <a href="https://navyasree-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/navya-sree-murthy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:murthynavi216@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/NavyaSreeMurthy">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=ASP.NET+Core+Developer;API+Design+Specialist;Full-Stack+Developer;Scalable+Enterprise+Solutions" alt="Typing SVG" />
   </a>
@@ -104,7 +116,7 @@ I'm a **Custom Software Engineer** with a passion for designing, building, and o
 
 - **How to play:** Click the moving dot as fast as you can – each click increases your score, and the dot speeds up.
 - **Tech Stack:** HTML5 Canvas, CSS3, Vanilla JavaScript  
-- **Live Demo:** [https://NavyaSreeMurthy.github.io/catch-the-dot](https://NavyaSreeMurthy.github.io/catch-the-dot)  
+- **Live Demo:** [https://NavyaSreeMurthy.github.io/catch-the-dot](https://NavyaSreeMurthy.github.io/catch-the-dot) *(Update this when you deploy it)*  
 - **Repo:** [https://github.com/NavyaSreeMurthy/catch-the-dot](https://github.com/NavyaSreeMurthy/catch-the-dot)
 
 ---
@@ -112,8 +124,8 @@ I'm a **Custom Software Engineer** with a passion for designing, building, and o
 ### 5. 🌐 Personal Portfolio
 > **My professional portfolio showcasing my work, skills, and development philosophy.**
 
-- **Live Demo:** [https://NavyaSreeMurthy.github.io/portfolio](https://NavyaSreeMurthy.github.io/portfolio)  
-- **Repo:** [https://github.com/NavyaSreeMurthy/portfolio](https://github.com/NavyaSreeMurthy/portfolio)
+- **Live Demo:** [https://navyasree-portfolio.netlify.app](https://navyasree-portfolio.netlify.app)  
+- **Hosted on:** Netlify
 
 <br>
 
@@ -129,7 +141,7 @@ I'm a **Custom Software Engineer** with a passion for designing, building, and o
 
 <br>
 
-## 📈 Contribution Graph (with Snake Animation)
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavyaSreeMurthy&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
@@ -173,8 +185,8 @@ I'm a **Custom Software Engineer** with a passion for designing, building, and o
   <a href="mailto:murthynavi216@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://NavyaSreeMurthy.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://navyasree-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -187,7 +199,7 @@ I'm a **Custom Software Engineer** with a passion for designing, building, and o
   </a>
 </p>
 
-<!-- This is the Snake Contribution Game/Animation you asked for! -->
+<!-- Snake Contribution Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/NavyaSreeMurthy/NavyaSreeMurthy/output/snake.svg" alt="Snake Animation" />
 </p>
