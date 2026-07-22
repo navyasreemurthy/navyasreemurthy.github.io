@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navya Sree Murthy</h1>
-<h3 align="center">Juniior Full‑Stack Developer | ASP.NET Core Specialist | Cloud‑Ready Solutions Architect</h3>
+<h3 align="center">ASP.NET Full‑Stack Developer | Cloud‑Ready Solutions Architect</h3>
 
 <p align="center">
   <a href="https://github.com/NavyaSreeMurthy">
@@ -13,26 +13,26 @@
 
 I'm a **Custom Software Engineer** with a passion for designing, building, and optimizing scalable enterprise web applications. My expertise lies in the Microsoft ecosystem, where I architect robust solutions that drive business efficiency and growth.
 
-- 🔭 **Currently Architecting:** Enterprise Inventory & Order Management System with real-time tracking
-- 🌱 **Deep Dive:** Microservices Architecture, Cloud Migration (Azure/AWS), .NET 8, C# 12
-- 👯 **Open for Collaboration:** Enterprise-level web applications, API-first solutions, and cloud-native projects
-- 💬 **Ask Me About:** ASP.NET Core, C#, React.js, SQL Server, RESTful API Design, System Architecture
-- 📫 **How to reach me:** [navya.sree@example.com](mailto:navya.sree@example.com)
+- 🔭 **Currently Architecting:** Enterprise Inventory & Order Management System with real‑time tracking  
+- 🌱 **Deep Dive:** Microservices Architecture, Cloud Migration (Azure/AWS), .NET 8, C# 12  
+- 👯 **Open for Collaboration:** Enterprise web applications, API‑first solutions, and cloud‑native projects  
+- 💬 **Ask Me About:** ASP.NET Core, C#, React.js, SQL Server, RESTful API Design, System Architecture  
+- 📫 **How to reach me:** [murthynavi216@gmail.com](mailto:murthynavi216@gmail.com)  
 - ⚡ **Fun Fact:** I turn complex business requirements into elegant, working software solutions 🚀
 
 <br>
 
 ## 🏢 Professional Experience
 
-### Senior ASP.NET Full Stack Developer | Ralf Soft Technologies, Chennai
+### ASP.NET Full Stack Developer | Ralf Soft Technologies, Chennai  
 *May 2025 – Present*
 
-- Architecting and developing **scalable, custom web applications** using ASP.NET Core following modern frameworks and agile practices
-- Designing and implementing **RESTful APIs** with ASP.NET Web API for efficient cross-system communication
-- Implementing **JWT-based authentication** and **Role-Based Access Control (RBAC)** to secure enterprise application components
-- Optimizing **SQL Server** queries and stored procedures, improving **database performance** and application response times
-- Building **responsive, cross-browser UIs** with HTML5, CSS3, and JavaScript; collaborating with cross-functional teams on solution design
-- Participating in **sprint planning, code reviews**, and documentation/testing of software components to ensure quality and reliability
+- Developed and maintained scalable web applications using **ASP.NET** and **ASP.NET Core**, supporting **500+ concurrent users** across 3 core business modules.
+- Designed and implemented **RESTful APIs** consumed by front‑end and downstream services, reducing manual processing effort by **30%**.
+- Implemented **JWT authentication** and **role‑based access control (RBAC)**, securing access across **5+ distinct user roles**.
+- Optimized SQL Server queries and stored procedures, improving query performance by **25%**.
+- Built responsive UI components using HTML5, CSS3, and JavaScript, improving page load consistency by **20%**.
+- Used AI‑assisted tools (GitHub Copilot, ChatGPT, Claude, DeepSeek) for code review, debugging, and faster feature delivery, cutting development time by **15%**.
 
 <br>
 
@@ -79,37 +79,70 @@ I'm a **Custom Software Engineer** with a passion for designing, building, and o
 ## 🏆 Featured Projects
 
 ### 1. 📦 Enterprise Inventory & Order Management System
-> **A full-stack, multi-location inventory and order management solution for modern businesses.**
+> **A full‑stack, multi‑location inventory and order management solution for modern businesses.**
 
-- **Features:** Real-time stock tracking, order processing, multi-location support, reporting and analytics, admin/manager/staff workflows
-- **Architecture:** Full-stack application with ASP.NET Core MVC, Entity Framework, and RESTful APIs for cross-module communication
+- **Features:** Real‑time stock tracking, order processing, multi‑location support, reporting and analytics, admin/manager/staff workflows.
+- **Architecture:** ASP.NET Core MVC + Entity Framework + SQL Server, with RESTful APIs for cross‑module communication.
 - **Technical Highlights:**
-  - Implemented **JWT-based authentication** and **RBAC** for granular access control
-  - Designed normalized SQL Server schemas with optimized stored procedures
-  - Reduced query response time through performance optimization
-  - Built responsive frontend with HTML5, CSS3, and JavaScript
-  - Used Git for version control and Postman for API testing
-- **Tech Stack:** ASP.NET Core MVC, C#, Entity Framework, SQL Server, HTML5, CSS3, JavaScript
-- **Repo:** [https://github.com/NavyaSreeMurthy/inventory-management-system](https://github.com/NavyaSreeMurthy/YOUR-REPO-NAME)
+  - **JWT‑based authentication** and **RBAC** for granular access control.
+  - Normalized SQL Server schemas with optimised stored procedures.
+  - Reduced query response time through performance tuning.
+  - Responsive frontend built with HTML5, CSS3, and JavaScript.
+  - Used Git for version control and Postman for API testing.
+- **Tech Stack:** ASP.NET Core MVC, C#, Entity Framework, SQL Server, HTML5, CSS3, JavaScript  
+- **Repo:** [https://github.com/NavyaSreeMurthy/inventory-management](https://github.com/NavyaSreeMurthy/inventory-management)
 
-### 2. 💳 Customer Bill Payment Management System
-> **A secure, full-stack web application for customer utility billing and online payments.**
+---
 
-- **Features:** Utility billing management, online payment processing, customer profile management, payment history tracking, secure login and session management
-- **Architecture:** Spring Boot backend with React.js frontend, integrated via Axios
+### 2. 🛒 E‑Commerce Web Application (Full‑Stack)
+> **A full‑featured e‑commerce platform supporting product browsing, cart, and order management.**
+
+- **Features:** Product catalog (search, filters, pagination), shopping cart, checkout workflow (stock validation, order summary, status updates), Admin dashboard for inventory & order management.
+- **Architecture:** ASP.NET Core Web API (backend) + React.js (frontend) + SQL Server (database).
 - **Technical Highlights:**
-  - Designed MySQL database schema for customer profiles, billing, and payment history
-  - Implemented full CRUD operations with RESTful APIs
-  - Structured error handling for improved application reliability
-  - Tested all API endpoints with Postman
-- **Tech Stack:** Spring Boot, React.js, MySQL, Axios, JWT
-- **Repo:** [https://github.com/NavyaSreeMurthy/bill-payment-system](https://github.com/NavyaSreeMurthy/YOUR-REPO-NAME)
+  - Built **RESTful APIs** for product catalog, cart, checkout, and order‑tracking modules – cutting average API response time by **20%**.
+  - Implemented secure authentication & authorisation using **JWT** and **RBAC** for Customer, Seller, and Admin roles.
+  - Dynamic product catalog improved product discovery and reduced page load time by **25%**.
+  - Optimised SQL Server schema with indexing and stored procedures, improving query performance by **20%** for high‑traffic endpoints.
+  - Integrated checkout with stock validation and real‑time order status.
+  - Admin dashboard reduced manual order‑processing effort by **30%**.
+  - Used Git, Postman, and AI‑assisted tools (GitHub Copilot, ChatGPT) to accelerate development.
+- **Tech Stack:** ASP.NET Core Web API, C#, Entity Framework, React.js, SQL Server, HTML5, CSS3, JavaScript  
+- **Repo:** [https://github.com/NavyaSreeMurthy/ecommerce-platform](https://github.com/NavyaSreeMurthy/ecommerce-platform)
 
-### 3. 🌐 Personal Portfolio
+---
+
+### 3. 💳 Customer Bill Payment Management System
+> **A secure, full‑stack web application for utility billing and online payments.**
+
+- **Features:** Utility billing management, online payment processing, customer profile management, payment history tracking, secure login.
+- **Architecture:** Spring Boot (backend) + React.js (frontend) + MySQL (database).
+- **Technical Highlights:**
+  - Designed MySQL schema for customer profiles, billing, and payment history.
+  - Full CRUD operations via RESTful APIs.
+  - Structured error handling for improved reliability.
+  - Tested all API endpoints with Postman.
+- **Tech Stack:** Spring Boot, React.js, MySQL, Axios, JWT  
+- **Repo:** [https://github.com/NavyaSreeMurthy/bill-payment-system](https://github.com/NavyaSreeMurthy/bill-payment-system)
+
+---
+
+### 4. 🕹️ Interactive JavaScript Game – "Catch The Dot"
+> **A fun and addictive reflex‑based game built with vanilla JavaScript.**
+
+- **Features:** Dynamic dot movement, score tracking, difficulty levels, responsive design.
+- **How to play:** Click the moving dot as fast as you can – each successful click increases your score, and the dot speeds up.
+- **Technical Highlights:** Pure HTML5 Canvas, CSS3 animations, and modular JavaScript; deployed on GitHub Pages for instant play.
+- **Live Demo:** [https://NavyaSreeMurthy.github.io/catch-the-dot](https://NavyaSreeMurthy.github.io/catch-the-dot)  
+- **Repo:** [https://github.com/NavyaSreeMurthy/catch-the-dot](https://github.com/NavyaSreeMurthy/catch-the-dot)
+
+---
+
+### 5. 🌐 Personal Portfolio
 > **My professional portfolio showcasing my work, skills, and development philosophy.**
 
-- **Features:** Fully responsive design, project showcase, interactive UI, clean and modern layout
-- **Live Demo:** [https://your-portfolio-url.com](https://your-portfolio-url.com)
+- **Features:** Fully responsive design, project showcase, interactive UI, clean modern layout.
+- **Live Demo:** [https://NavyaSreeMurthy.github.io/portfolio](https://NavyaSreeMurthy.github.io/portfolio)  
 - **Repo:** [https://github.com/NavyaSreeMurthy/portfolio](https://github.com/NavyaSreeMurthy/portfolio)
 
 <br>
@@ -134,13 +167,13 @@ I'm a **Custom Software Engineer** with a passion for designing, building, and o
 
 <br>
 
-## 🎯 Currently Learning & Deep-Diving
+## 🎯 Currently Learning & Deep‑Diving
 
-- 🧠 **Microservices Architecture:** Service discovery, API gateways, distributed tracing
-- ☁️ **Cloud Migration:** Azure/AWS deployment strategies, containerization (Docker/Kubernetes)
-- 🔐 **Advanced Security:** OAuth 2.0, OpenID Connect, secure API design patterns
-- 🏗️ **System Design:** Event-driven architecture, CQRS, message queues (RabbitMQ/Azure Service Bus)
-- 🚀 **.NET 8 / C# 12:** Latest features and performance improvements
+- 🧠 **Microservices Architecture:** Service discovery, API gateways, distributed tracing  
+- ☁️ **Cloud Migration:** Azure/AWS deployment strategies, containerisation (Docker/Kubernetes)  
+- 🔐 **Advanced Security:** OAuth 2.0, OpenID Connect, secure API design patterns  
+- 🏗️ **System Design:** Event‑driven architecture, CQRS, message queues (RabbitMQ/Azure Service Bus)  
+- 🚀 **.NET 8 / C# 12:** Latest features and performance improvements  
 
 <br>
 
@@ -154,11 +187,11 @@ I'm a **Custom Software Engineer** with a passion for designing, building, and o
 
 ## 🤝 Open to Collaborate On
 
-- 🌟 **Open Source Projects** - Especially in the .NET ecosystem
-- 🚀 **Full-Stack Web Applications** - Enterprise-level solutions
-- 💼 **Freelance Development** - Custom software solutions
-- 🧠 **Startup Ideas** - MVP development and technical consulting
-- 📚 **Technical Content Creation** - Blog posts, tutorials, and documentation
+- 🌟 **Open Source Projects** – Especially in the .NET ecosystem  
+- 🚀 **Full‑Stack Web Applications** – Enterprise‑level solutions  
+- 💼 **Freelance Development** – Custom software solutions  
+- 🧠 **Startup Ideas** – MVP development and technical consulting  
+- 📚 **Technical Content Creation** – Blog posts, tutorials, and documentation  
 
 <br>
 
@@ -168,13 +201,10 @@ I'm a **Custom Software Engineer** with a passion for designing, building, and o
   <a href="https://www.linkedin.com/in/navya-sree-murthy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/NavyaSreeMurthy">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:navya.sree@example.com">
+  <a href="mailto:murthynavi216@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://your-portfolio-url.com">
+  <a href="https://NavyaSreeMurthy.github.io/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
