@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navya Sree Murthy</h1>
-<h3 align="center">Senior Full‑Stack Developer | ASP.NET Core Specialist | Cloud‑Ready Solutions Architect</h3>
+<h3 align="center">Juniior Full‑Stack Developer | ASP.NET Core Specialist | Cloud‑Ready Solutions Architect</h3>
 
 <p align="center">
   <a href="https://github.com/NavyaSreeMurthy">
